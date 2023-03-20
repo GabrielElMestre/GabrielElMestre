@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielElMestre
 - 👀 I’m interested in learning more and more everyday because its the purpose of life
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on learning more about python, machine learing, IA, etc
+- 💞️ I’m looking to collaborate on learning more about python, machine learning, IA, etc
 - 📫 Instagram: @gabrielmarques210 - Gmail: gabrielmarquesow@gmail.com
 
 <!---
